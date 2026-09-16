@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-15T19:48:48.931Z",
+  "generatedAt": "2026-09-16T00:48:57.496Z",
   "horizon": {
-    "start": "2026-09-16",
-    "end": "2026-11-14",
+    "start": "2026-09-17",
+    "end": "2026-11-15",
     "days": 60
   },
   "latestCapturedAt": null,
